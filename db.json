@@ -1,0 +1,22 @@
+{
+  "clients": [
+    {
+      "id": "1",
+      "name": "Emma Johnson",
+      "email": "emma.johnson@techmail.com",
+      "phone": "+61 412 345 678"
+    },
+    {
+      "id": "2",
+      "name": "Liam Smith",
+      "email": "liam.smith@businessmail.com",
+      "phone": "+61 423 987 654"
+    },
+    {
+      "id": "3",
+      "name": "Olivia Brown",
+      "email": "olivia.brown@startup.io",
+      "phone": "+61 433 222 111"
+    }
+  ]
+}
