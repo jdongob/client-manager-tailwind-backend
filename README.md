@@ -32,6 +32,15 @@ https://client-manager-tailwind-backend.onrender.com
 Example endpoint:
 https://client-manager-tailwind-backend.onrender.com/clients
 
+
+### Endpoints
+
+- GET /clients
+- GET /clients/:id
+- POST /clients
+- PUT /clients/:id
+- DELETE /clients/:id
+
 ---
 
 ## 🔗 Frontend Integration
