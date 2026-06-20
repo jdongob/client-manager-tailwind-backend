@@ -34,3 +34,8 @@ https://client-manager-tailwind-backend.onrender.com/clients
 
 ---
 
+## 🔗 Frontend Integration
+
+This API is consumed by the React frontend application deployed on Vercel.
+
+The frontend communicates with this service through environment variables using: VITE_API_URL
